@@ -9,6 +9,8 @@ When a power station fails, the system detects it immediately and alerts the ope
 
 If all generation stations fail, the software triggers a full red alert, disconnects all load areas, and system frequency drops to 0 Hz—indicating a complete blackout. However, once any plant comes back online, the software initiates recovery mode, reconnecting load areas and restoring the system to normal operation.
 
+![Load & Frequency Panel of Power System.png](https://github.com/mehedihassanarman/Operating-Software-for-Power-Distribution-Systems/blob/main/Project%20Image/Load%20%26%20Frequency%20Panel%20of%20Power%20System.png)
+
 The Load & Frequency Panel presents live system frequency, percentage of load reduction, and power distribution across load areas through dynamic graphs. This visual feedback helps operators and researchers understand how the system behaves under different scenarios.
 
 In summary, this operating software acts as the control center for the generation-based load management model. It is especially useful for training, testing, and research in power systems, particularly for developing countries where infrastructure is limited and backup generation reserves are not readily available.
